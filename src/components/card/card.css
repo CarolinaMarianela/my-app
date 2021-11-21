@@ -1,0 +1,11 @@
+.card-container {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    background-color: rgb(211, 92, 92);
+    color: black;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

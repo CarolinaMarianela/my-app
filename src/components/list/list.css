@@ -1,0 +1,6 @@
+.card-box{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(to right, #e8b8dc, hsl(180, 72%, 76%), #edf5c4);
+}
